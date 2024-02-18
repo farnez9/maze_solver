@@ -2,11 +2,10 @@
 
 ## Technologies:
 
-- ## Python
-- ## Tkinter
+- Python
+- Tkinter
 
+### Make sure you have them installed before running the project
 
 Maze solver built in python with Tkinter: it automatically crates a maze and solves it
 
-
-## Make sure you have python and tkinter installed before running the project
